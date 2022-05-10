@@ -36,6 +36,9 @@ body{
 .clock-icon{
     color: hsl(215, 51%, 70%);
 }
+.clock-icon img{
+    width: 15px;
+}
 .nft-card h4{
     color: white;
 }
