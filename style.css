@@ -22,6 +22,10 @@ body{
     height: 300px;
     width: 270px;
 }
+.icons img{
+    height: 15px;
+    width: 10px;
+}
 .icons{
     display: flex;
     justify-content: space-between;
